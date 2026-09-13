@@ -1,0 +1,7 @@
+cd <Project eka hadanna one path eka eka denna>
+npm init // manual package.json eka sadimata ,
+npm iniy -y // auto package.json eka sadei
+
+npm i <packge name> | npm install <packge name>
+
+        eg - npm i  express
